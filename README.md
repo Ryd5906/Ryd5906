@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on I'm involved to explore different development methodologies from around the world. wish me luck!
 - 📫 How to reach me: Lattersrubruneys@gmail.com.
 <br></br>
-More about me: www.linkedin.com/in/latteryd
+More about me: www.linkedin.com/in/latteryd.
 
 --> I eagerly anticipate the joy of engaging in meaningful exchanges and sharing thoughtd with you .
