@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 <br></br>
 More about me: www.linkedin.com/in/latteryd.
 
---> I eagerly anticipate the joy of engaging in meaningful exchanges and sharing thoughtd with you .
+I eagerly anticipate the joy of engaging in meaningful exchanges and sharing thoughtd with you --> 
