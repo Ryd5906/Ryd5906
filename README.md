@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Lattersrubruneys@gmail.com.
 <br></br>
 More about me: www.linkedin.com/in/latteryd.
+MY notion project : https://pushy-stitch-159.notion.site/Projet-Notion-Ma-page-Web-fcc67a6e5db745c6954df97afbb142f4?pvs=4
 
 I eagerly anticipate the joy of engaging in meaningful exchanges and sharing thoughtd with you --> 
