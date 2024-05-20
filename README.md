@@ -1,7 +1,4 @@
 ### Hi there 👋
-**Ryd5906/Ryd5906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - Hi, i'm Latters, a passionate student in web development.
 - I'm interested in code and I am currently pursuing courses about developement at SAYNA .
 - 🌱 I’m currently diving into the realm of web development, exploring every aspect and, more specifically, discovering affective method to master the craft.
