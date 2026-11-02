@@ -19,7 +19,7 @@ HTML5 · CSS3 · JavaScript · Git · GitHub
 - Formation mobile certifiée — DCLIC/OIF (2025)
 - Piscine de 28 jours — École 42 Antananarivo (2024)
 - Formation numérique — SAYNA (2026)
-- Bac+2 en informatique — ASJA Antsirabe (2023)
+- Cycle supérieur en informatique, ASJA Antsirabe (2023)
 
 ## Contact
 
@@ -43,5 +43,5 @@ Background:
 - Certified mobile development program — DCLIC/OIF (2025)
 - 28-day piscine — École 42 Antananarivo (2024)
 - Digital training — SAYNA (2026)
-- Two-year computer science degree — ASJA Antsirabe (2023)
+- Higher studies in computer science, ASJA Antsirabe (2023)
 </details>
