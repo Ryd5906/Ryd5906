@@ -1,12 +1,41 @@
-### Hi  👋
-- Hi, I'm Latters, a passionate student in software development.
-- I'm interested in code and I am currently pursuing courses about developement at SAYNA .
-- I’m deep-diving into web development right now—exploring every angle and uncovering the most effective methods to truly master the craft!
-- 👯 I’m looking to collaborate on I'm involved to explore different development methodologies from around the world. wish me luck!
-- 📫 How to reach me: ryd5906@gmail.com.
-- MY notion project : https://pushy-stitch-159.notion.site/Projet-Notion-Ma-page-Web-fcc67a6e5db745c6954df97afbb142f4?pvs=4
-<br></br>
-More about me: www.linkedin.com/in/ters-y-d.
+# Rubruneys Latters
 
+Développeur mobile junior basé à Antananarivo, Madagascar. Je cherche une première mission en développement mobile ou support technique, sur place ou à distance.
 
-I eagerly anticipate the joy of engaging in meaningful exchanges and sharing thoughtd with you --> 
+## Parcours
+
+- Bac+2 en informatique — ASJA Antsirabe (2023)
+- Piscine 28 jours — École 42 Antananarivo (2024)
+- Formation mobile certifiée — DCLIC/OIF
+- Formation numérique — SAYNA
+
+## Projets
+
+- [Batman — landing page](https://ryd5906.github.io/-SAYNA-HTMLCSS-BATMAN1/) : HTML/CSS/JS, carrousel accessible, formulaire validé. [Code](https://github.com/Ryd5906/-SAYNA-HTMLCSS-BATMAN1)
+- [Black Panther — site vitrine](https://ryd5906.github.io/SAYNA-HTMLCSS-PANTHER/) : trois pages, carrousel, énigme interactive, formulaire. [Code](https://github.com/Ryd5906/SAYNA-HTMLCSS-PANTHER)
+- Avant le code : montage vidéo pour la chaîne Meilleur Corps — Passion Rédac Antsirabe, 2023.
+
+## Stack
+
+HTML5 · CSS3 · JavaScript · Git · GitHub
+
+## Contact
+
+- LinkedIn : [ters-y-d](https://www.linkedin.com/in/ters-y-d)
+- Email : [ryd5906@gmail.com](mailto:ryd5906@gmail.com)
+- Profil SAYNA : [app.sayna.io/u/laruy](https://app.sayna.io/u/laruy)
+
+<details>
+<summary>English version</summary>
+
+Junior mobile developer based in Antananarivo, Madagascar, looking for a first role in mobile development or technical support, on site or remote.
+
+- Two-year computer science degree — ASJA Antsirabe (2023)
+- 28-day École 42 piscine — Antananarivo (2024)
+- Certified mobile development program — DCLIC/OIF
+- Digital training — SAYNA
+
+Projects: [Batman landing page](https://ryd5906.github.io/-SAYNA-HTMLCSS-BATMAN1/) and [Black Panther showcase site](https://ryd5906.github.io/SAYNA-HTMLCSS-PANTHER/), both built with HTML, CSS and JavaScript.
+
+Stack: HTML5 · CSS3 · JavaScript · Git · GitHub
+</details>
