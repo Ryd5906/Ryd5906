@@ -1,13 +1,8 @@
 # Rubruneys Latters
 
-Développeur mobile junior basé à Antananarivo, Madagascar. Je cherche une première mission en développement mobile ou support technique, sur place ou à distance.
-
-## Parcours
-
-- Bac+2 en informatique — ASJA Antsirabe (2023)
-- Piscine 28 jours — École 42 Antananarivo (2024)
-- Formation mobile certifiée — DCLIC/OIF
-- Formation numérique — SAYNA
+Développeur front-end junior (HTML/CSS/JS), formé au développement mobile, basé à Antananarivo, Madagascar.
+Je crée des sites et landing pages responsives, accessibles et soignés. Je me spécialise aujourd'hui dans le mobile.
+Disponible pour des missions freelance, sur place ou à distance.
 
 ## Projets
 
@@ -19,6 +14,13 @@ Développeur mobile junior basé à Antananarivo, Madagascar. Je cherche une pre
 
 HTML5 · CSS3 · JavaScript · Git · GitHub
 
+## Parcours
+
+- Formation mobile certifiée — DCLIC/OIF (2025)
+- Piscine de 28 jours — École 42 Antananarivo (2024)
+- Formation numérique — SAYNA (2026)
+- Bac+2 en informatique — ASJA Antsirabe (2023)
+
 ## Contact
 
 - LinkedIn : [ters-y-d](https://www.linkedin.com/in/ters-y-d)
@@ -28,14 +30,18 @@ HTML5 · CSS3 · JavaScript · Git · GitHub
 <details>
 <summary>English version</summary>
 
-Junior mobile developer based in Antananarivo, Madagascar, looking for a first role in mobile development or technical support, on site or remote.
-
-- Two-year computer science degree — ASJA Antsirabe (2023)
-- 28-day École 42 piscine — Antananarivo (2024)
-- Certified mobile development program — DCLIC/OIF
-- Digital training — SAYNA
+Junior front-end developer (HTML/CSS/JS), mobile-trained, based in Antananarivo, Madagascar.
+I build responsive, accessible and polished websites and landing pages, and I'm now specialising in mobile.
+Available for freelance work, on site or remote.
 
 Projects: [Batman landing page](https://ryd5906.github.io/-SAYNA-HTMLCSS-BATMAN1/) and [Black Panther showcase site](https://ryd5906.github.io/SAYNA-HTMLCSS-PANTHER/), both built with HTML, CSS and JavaScript.
 
 Stack: HTML5 · CSS3 · JavaScript · Git · GitHub
+
+Background:
+
+- Certified mobile development program — DCLIC/OIF (2025)
+- 28-day piscine — École 42 Antananarivo (2024)
+- Digital training — SAYNA (2026)
+- Two-year computer science degree — ASJA Antsirabe (2023)
 </details>
